@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+body {
+    font-family: verdana, Arial;
+    font-size: 12px;
+    line-height:1;
+    background: #fff;
+}
+li{ list-style: none;}
+a {
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+    color: #6c6c6c;
+}
+a:hover{
+    color: #f40;
+    transition: color .2s ease-in-out;
+}
+.fl{float: left;}
+.rl{float: right;}
